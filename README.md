@@ -5,5 +5,6 @@ ip2domain.py will accept any file as a sysarg input when calling the script and 
 
 Syntax: <code>python3 ip2domain.py filepath/filename.txt</code>
 
-<p>Sample Output:</p>
+Sample Output:
+--------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/32396866/155418358-a407cf80-0cbf-4471-9ed7-f39f87a8f870.png)
